@@ -22,7 +22,7 @@ Orange: both
 [The community project process](./cdip-contributor-highlights.jpg)
 
 ### 1. Submit your proposal
-To submit a proposal follow [these instructions](./community-projects.md)
+To submit a proposal follow [these instructions](./README.md)
 
 ### 2. Wait for feedback
 The approving group will reach out to the proposal owner and provide feedback. You’ll work on scoping, costs, resources and timeline.
