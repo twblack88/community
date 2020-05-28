@@ -41,4 +41,4 @@ If you’ve got a big idea to help improve this site or the Maker community, we 
 ### Working on a bounty
 See what’s expected of you if you work on a Maker community bounty.
 
-[Working on a bounty](/bounties/working-on-a-bounty "What you need to know about working on a bounty")
+[Working on a bounty](./working-on-a-bounty.md "What you need to know about working on a bounty")
