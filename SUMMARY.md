@@ -176,4 +176,3 @@
   * [Governance Call Summary Template](contributing/gnr-summary-template.md)
   * [FAQ](contributing/faq.md)
 
-
