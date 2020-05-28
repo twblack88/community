@@ -2,9 +2,8 @@
 
 **Bounties come in many shapes and sizes but there’s a few ways to make sure things run smoothly. Here’s what we recommend.**
 
-{% hint style="tip" %}
-[Community chat↗](https://chat.makerdao.com/channel/community-development "Community development chat")
-{% endhint %}
+💡 _If there’s a bounty you want to work on, make sure you express interest in the chat before doing anything else.
+[Community chat↗] (https://chat.makerdao.com/channel/community-development "Community development chat")_
 
 ## The process
 
@@ -26,12 +25,12 @@ We created a project plan template to help you get what you need.
 ### 2. Review the resources
 Use the resources to help you do your best work.
 
-- [Writing style guide](/contributing/writing-style-guide)
-- [Editorial standards](/contributing/reviewer-guide)
-- [Visual style guide](/contributing/visual-style-guide)
+- [Writing style guide](../contributing/writing-style-guide.md)
+- [Editorial standards](../contributing/reviewer-guide.md)
+- [Visual style guide](../contributing/visual-style-guide.md)
 
 ### 3. Work openly
-Start your work in a collaborative Google doc so the contributing team can properly review your work. Be sure to communicate regularly with your team and the wider community. We encourage you to share work, ask for feedback and keep us updated in the [community chat↗](https://chat.makerdao.com/channel/community-development "Community development chat")
+Start your work in a collaborative Google doc so the contributing team can properly review your work. Be sure to communicate regularly with your team and the wider community. We encourage you to share work, ask for feedback and keep us updated in the [community chat ↗](https://chat.makerdao.com/channel/community-development "Community development chat")
 
 Try and keep the GitHub issue attached to your bounty up to date with comments and feedback.
 
@@ -40,9 +39,7 @@ When your work is ready for final approval, you’ll need to submit a pull reque
 
 [How to use GitHub](/content/using-github)
 
-{% hint style="tip" %}
-If your bounty has been content based you’ll need to copy your content over to HackMD from your Google doc. All content on the site is in markdown.
-{% endhint %}
+💡 _If your work is content based you’ll need to copy your content over to HackMD from your Google doc. All content on the site is in markdown._
 
 Once your pull request has been approved we’ll let you know how to request your Dai.
 
@@ -57,4 +54,4 @@ Ready to get to work? Check out what bounties we currently need help with.
 ## Want to improve this page?
 Learn how to suggest content changes to this page.
 
-[Content](/content)
+[Content](./content.md)
