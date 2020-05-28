@@ -6,7 +6,9 @@ description: >-
 
 # Working on a bounty
 
-💡 _If there’s a bounty you want to work on, make sure you express interest in the chat before doing anything else._ [_Community chat ↗_](https://chat.makerdao.com/channel/community-development)
+{% hint style="info" %}
+_If there’s a bounty you want to work on, make sure you express interest in the chat before doing anything else._ [_Community chat ↗_](https://chat.makerdao.com/channel/community-development)
+{% endhint %}
 
 ## The process
 

@@ -10,10 +10,10 @@ description: >-
 
 For most bounties you’ll need a working knowledge of:
 
-* [ ] **GitHub**  This is where we manage the bounty process 
-* [ ] **Markdown**  The site content here is written in markdown 
-* [ ] **Google docs**  We’ll review your drafts and early iterations in Google docs 
-* [ ] **Maker**  You’ll need to know about Maker. The community has created plenty of reading material to get you up to speed. [Learn about Maker](https://github.com/ryancreatescopy/community/tree/73adbf56ade73878c1f69ecb7426267192fd13cc/faqs/README.md)
+* [ ] **GitHub** This is where we manage the bounty process
+* [ ] **Markdown** The site content here is written in markdown
+* [ ] **Google docs** We’ll review your drafts and early iterations in Google docs
+* [ ] **Maker** You’ll need to know about Maker. The community has created plenty of reading material to get you up to speed. [Learn about Maker](https://github.com/ryancreatescopy/community/tree/73adbf56ade73878c1f69ecb7426267192fd13cc/faqs/README.md)
 
 [See open bounties ↗](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22)
 
@@ -33,13 +33,11 @@ Ask in the community chat for help submitting an invoice.
 
 [Community chat ↗](https://chat.makerdao.com/channel/community-development)
 
-{% hint style="info" %}
-### Got a bigger idea?
+## Got a bigger idea?
 
 If you’ve got a big idea to help improve this site or the Maker community, we want to hear from you. You can submit a proposal and get up to 5000 Dai in funding if we like your idea.
 
 [Community projects](https://github.com/ryancreatescopy/community/tree/d25c68bb6726992e3c118c1ef7bb8f61a30bccf2/work-with-us/community-projects/README.md)
-{% endhint %}
 
 ## Suggested reading
 
