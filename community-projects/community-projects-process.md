@@ -65,4 +65,4 @@ Reach out to us on the community chat if you want to know any more about submitt
 ## Submit a proposal
 Ready to share your idea with us? Submit a proposal and earn up to 5000 Dai.
 
-[Submit a community proposal](community-projects.md)
+[Submit a community proposal](./README.md)
