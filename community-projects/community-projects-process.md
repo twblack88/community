@@ -60,7 +60,7 @@ Here’s a list of resources we have already that might be useful for your work:
 ## Questions
 Reach out to us on the community chat if you want to know any more about submitting a community project idea.
 
-[Community chat↗](https://chat.makerdao.com/channel/community-development "Community development chat")
+[Community chat ↗](https://chat.makerdao.com/channel/community-development "Community development chat")
 
 ## Submit a proposal
 Ready to share your idea with us? Submit a proposal and earn up to 5000 Dai.
