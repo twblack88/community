@@ -24,7 +24,7 @@ Post your complete proposal in our Community Development chat. We meet weekly to
 
 [Community chat ↗](https://chat.makerdao.com/channel/community-development "Community development chat")
 
-You’ll be assigned a guide to help you iterate on your proposal, plan the work and manage the feedback process. For more detail on what happens read about the [community project process](/community-projects/community-project-process).
+You’ll be assigned a guide to help you iterate on your proposal, plan the work and manage the feedback process. For more detail on what happens read about the [community project process](/community-projects/community-projects-process).
 
 ## Dos and Don'ts
 
