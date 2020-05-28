@@ -52,7 +52,7 @@ If you need more resources than you first thought, let your advisor know. They w
 ### Community resources
 Here’s a list of resources we have already that might be useful for your work:
 
-- [Writing style guide](contributing/writing-style-guide.md) – How to write like Maker
+- [Writing style guide](community/contributing/writing-style-guide.md) – How to write like Maker
 - [Editorial standards](/contributing/reviewer-guide) – What to look out for when reviewing work
 - [Visual style guide](/contributing/visual-style-guide) – How to look like Maker
 - [Design files and assets](https://www.notion.so/makerdao/Maker-Brand-ac517c82ff9a43089d0db5bb2ee045a4) – Official Maker and Dai logos, badges and product screenshots.
