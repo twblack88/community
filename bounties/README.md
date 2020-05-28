@@ -21,6 +21,7 @@ You’ll need to know about Maker. The community has created plenty of reading m
 
 ## Start work
 If you think you meet all the requirements, you’re ready to start work. As soon as you spot a bounty you’d like to work on, let us know in the chat. From there we can assign you folks from the community to help you get started.
+
 [Community chat ↗](https://chat.makerdao.com/channel/community-development "Community development chat")
 
 
