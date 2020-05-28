@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Community Development at Maker](README.md)
+* [Bounties](bounties/README.md)
+  * [Working on bounties](bounties/working-on-bounties.md)
+* [Community projects](community-projects/README.md)
+  * [Community projects process](community-projects/community-projects-process.md)
 * [Onboarding](onboarding/README.md)
   * [Vault Onboarding Guide](onboarding/vault-onboarding.md)
   * [Voter Onboarding Guide](onboarding/voter-onboarding.md)
