@@ -1,0 +1,2 @@
+# Glosario de Términos
+

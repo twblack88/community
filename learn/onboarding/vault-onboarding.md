@@ -2,7 +2,7 @@
 
 The Maker Protocol offers access to decentralized, non-custodial and permissionless leverage through Maker Vaults. Users can generate the Dai stablecoin by locking assets as collateral in a Vault. It’s important for individuals to be mindful of the risks associated with Vault usage, including those indicated in the applicable Terms of Service. This brief guide outlines the basics of getting started with Vaults on Oasis Borrow. While it presents the main features of Oasis Borrow, it only serves as an overall and general introduction.
 
-![](../.gitbook/assets/1.png)
+![](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/1.png)
 
 ## The Basics
 
@@ -38,13 +38,13 @@ As a web3 application, accessing Oasis requires a compatible wallet. For the mos
 
 On the [Oasis landing page](https://oasis.app/), click “Borrow Dai” to get started.
 
-![Oasis Choices](../.gitbook/assets/2.png)
+![Oasis Choices](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/2.png)
 
 ### Connecting a Wallet
 
 Connect to a wallet from the listed options and accept the connection request. This example uses MetaMask, but other wallets operate similarly. Make sure the wallet contains some ETH to pay for transactions when creating or interacting with Vaults.
 
-![Connect Wallet](../.gitbook/assets/3.png) ![Connect Wallet Request](../.gitbook/assets/4.png)
+![Connect Wallet](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/3.png) ![Connect Wallet Request](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/4.png)
 
 Connecting to Oasis is free. However, the connection process will need to be repeated for each new session once the wallet is disconnected.
 
@@ -52,56 +52,56 @@ Connecting to Oasis is free. However, the connection process will need to be rep
 
 The Oasis Borrow Dashboard appears once a wallet is connected. Any existing Vaults associated with the wallet will appear here.
 
-![Oasis Borrow Dashboard](../.gitbook/assets/5.png)
+![Oasis Borrow Dashboard](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/5.png)
 
 The top right-hand panel displays information about the connected wallet, including token balances. The menu below lists information about the global state of Vaults and [the prices of relevant assets.](../makerdao-mcd-faqs/faqs/oracles.md)
 
-![Wallet Information Panel](../.gitbook/assets/6.png) ![Global System Information Panel](../.gitbook/assets/7.png)
+![Wallet Information Panel](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/6.png) ![Global System Information Panel](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/7.png)
 
 ### Opening a Vault
 
 To open a new Vault, click “Get Started” on the dashboard.
 
-![Get Started](../.gitbook/assets/8.png)
+![Get Started](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/8.png)
 
 Select a collateral type for this Vault. Make note of the information about the [Stability Fee](../makerdao-mcd-faqs/faqs/stability-fee.md), [Liquidation Ratio](../makerdao-mcd-faqs/faqs/liquidation.md#what-is-the-liquidation-ratio), and [Liquidation Penalty](../makerdao-mcd-faqs/faqs/liquidation.md#what-is-the-liquidation-penalty). These are important risk parameters which you should understand as well as be able to apply to your specific situation. When ready, click “Continue.”
 
-![Select a Collateral Type](../.gitbook/assets/9.png)
+![Select a Collateral Type](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/9.png)
 
 This page configures the Vault for easy management. This step only needs to be done once. Click “Setup” and confirm the transaction on the wallet. Using Metamask, each transaction screen will look similar to the screenshot below:
 
-![MetaMask Transaction Screen](../.gitbook/assets/10.png)
+![MetaMask Transaction Screen](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/10.png)
 
 Grant the Maker Protocol permission to interact with collateral. Click “Set” and approve the transaction on the wallet. This process must be repeated for each new collateral type.
 
 Click “Continue” once everything is ready.
 
-![Vault Setup and Management](../.gitbook/assets/11.png)
+![Vault Setup and Management](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/11.png)
 
 Now that the Vault is set up, decide how much collateral to deposit to your Vault in the Maker Protocol and the amount of Dai to generate. Make a note of the Vault’s parameters. Click “Continue” when ready.
 
 * **Note the Collateralization Ratio and the Liquidation Price:** The Liquidation price should be comfortably below the collateral’s current price, depending on individual risk tolerance. If the collateral’s market price falls below the Liquidation price, the Vault will be liquidated and subject to the Liquidation Fee. Collateral will be sold for Dai until the Dai balance and Liquidation Fee are repaid.
 * **Note the Stability Fee:** The SF is a variable rate that is subject to weekly changes by Maker Governance. Users are encouraged to take advantage of trusted online tools to help stay up-to-date with the latest Stability Fee rates.
 
-![Deposit ETH and Generate Dai](../.gitbook/assets/12.png)
+![Deposit ETH and Generate Dai](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/12.png)
 
 Make sure the Vault parameters are satisfactory. Read and agree to the Terms of Service and acknowledge understanding that the Stability Fee is not a fixed rate. When ready, click “Open Vault” and approve the transaction on the wallet.
 
-![Confirm Vault Details](../.gitbook/assets/13.png)
+![Confirm Vault Details](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/13.png)
 
 Congratulations! The Vault is ready! Newly generated Dai will appear in the wallet.
 
-![Congratulations!](../.gitbook/assets/14.png)
+![Congratulations!](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/14.png)
 
 Hit “Exit” to return to the main Oasis Dashboard. The dashboard will display an overview of the Vault’s current state. Log in to Oasis with the same wallet to view the same Vaults in the future.
 
-![Oasis Vault Dashboard](../.gitbook/assets/15.png)
+![Oasis Vault Dashboard](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/15.png)
 
 ### Managing a Vault
 
 Active Vaults can be managed from the main dashboard. Each Vault type is managed separately and accessible through the left side-bar. Users are able to payback or generate Dai, withdraw or deposit collateral, or view the Vault history. Click "Manage" to bring up the Vault manager dashboard.
 
-![Oasis Vault Manager Dashboard](../.gitbook/assets/16.png)
+![Oasis Vault Manager Dashboard](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/16.png)
 
 ### Generating More Dai
 
@@ -109,7 +109,7 @@ To generate more Dai, click "Generate" on the dashboard and fill in the requeste
 
 Check the preview to make sure the Vault's new terms are acceptable. Click "Generate" and follow prompts to confirm the transaction. Once approved, the Vault's dashboard will update to reflect the changes.
 
-![Generate DAI](../.gitbook/assets/17.png)
+![Generate DAI](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/17.png)
 
 ### Adding Collateral
 
@@ -119,7 +119,7 @@ To add collateral, click “Deposit” from the dashboard and fill in the desire
 
 Check the preview to make sure the Vault's new terms are acceptable. Click “Deposit” and follow prompts to confirm the transaction. Once approved, the Vault’s dashboard will update to reflect the changes.
 
-![Deposit Collateral](../.gitbook/assets/18.png)
+![Deposit Collateral](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/18.png)
 
 ### Paying Back Dai
 
@@ -129,7 +129,7 @@ To pay back Dai, click “Pay back” from the dashboard to bring up the menu be
 
 Check the preview to make sure the Vault's new terms are acceptable. Click “Pay Back” and follow prompts to confirm the transaction. Once approved, the Vault’s dashboard will update automatically to reflect the changes.
 
-![Payback DAI](../.gitbook/assets/19.png)
+![Payback DAI](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/19.png)
 
 ### Withdrawing Collateral
 
@@ -137,13 +137,13 @@ To withdraw collateral from a Vault and return it to the wallet, click “Withdr
 
 Check the preview to make sure the Vault's new terms are acceptable. Click “Withdraw” and follow prompts to confirm the transaction. Once approved, the Vault dashboard will update to reflect the changes. Withdrawn collateral will appear in the wallet, unlocked, and ready for use.
 
-![Withdraw Collateral](../.gitbook/assets/20.png)
+![Withdraw Collateral](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/20.png)
 
 ### Viewing Vault History
 
 Find the Vault’s complete history listed below the dashboard. Scroll through to see a chronological record of its activity. Studying the Vault history can be a useful reference when reflecting on forgotten decisions and actions. One could also access other [3rd party websites and tools](https://awesome.makerdao.com/#monitor-vaults) for tracking this information.
 
-![Vault History](../.gitbook/assets/21.png)
+![Vault History](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/learn/.gitbook/assets/21.png)
 
 ## General Information on Vaults
 

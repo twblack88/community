@@ -34,7 +34,7 @@ Every contributor arrives at Community Development in their own way, but here is
     * How the Maker Protocol works on a technical level.
     * How the protocol is managed through governance.
     * MakerDAO’s history, current events, and the latest relevant information. 
-* Explore the [Earn as a Contributor Guide](earn-as-a-contributor.md) to learn how to earn rewards as a contributor.
+* Explore the [Earn as a Contributor Guide](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/contributing/earn-as-a-contributor.md) to learn how to earn rewards as a contributor.
   * Browse through the latest contributing opportunities at [GitHub Issues with Help-Wanted label](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22) and [Help-Wanted section of the MakerDAO Forum](https://forum.makerdao.com/c/comm-dev/help-wanted/11)
   * Explore the [CDIP Explainer process](cdip-explainer.md), which outlines the process for proposing new ideas and initiatives.
 * Join the [\#community-development](https://chat.makerdao.com/channel/community-development) channel on MakerDAO's chat to express interest.

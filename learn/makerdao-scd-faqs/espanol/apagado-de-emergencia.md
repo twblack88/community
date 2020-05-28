@@ -1,0 +1,2 @@
+# Apagado de Emergencia
+

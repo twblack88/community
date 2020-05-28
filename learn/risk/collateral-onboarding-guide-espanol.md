@@ -1,0 +1,2 @@
+# Collateral Onboarding Guide - Español
+

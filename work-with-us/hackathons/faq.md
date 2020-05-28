@@ -48,7 +48,7 @@ If you would like to have MakerDAO sponsor your hackathon, please have a look at
 
 ### What is the Maker Foundation's role in participating in Hackathons?
 
-The Foundation sponsors prizes, offers ideas for hackathon categories and projects, has members of its team participate as judges & mentors, and enrolls hackathon winners and participants into the Foundation's [Grants program](../grants/).
+The Foundation sponsors prizes, offers ideas for hackathon categories and projects, has members of its team participate as judges & mentors, and enrolls hackathon winners and participants into the Foundation's [Grants program](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/grants/README.md).
 
 ### Can the Maker Foundation help us with ideas for hack categories and ideas?
 

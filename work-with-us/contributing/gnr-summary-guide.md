@@ -104,7 +104,7 @@ This is the general structure of the document. \#h refers to the heading type. H
 * Capture presentations and conversations as concise points. Do not include "umm", "so", "like", irrelevant tangents, and any obfuscating language. The aim of the summary is to capture the main points in a concise and readable fashion.
 * Always add a Discussion segment at the end of each section to capture questions and comments made during that part of the call.
   * Delete the Discussion section if there is nothing to put there.
-* Use backticks to add a ```Chat```  marker to the beginning of questions or comments coming from the chat.
+* Use backticks to add a `Chat`  marker to the beginning of questions or comments coming from the chat.
   * Only include insightful comments or important questions. Especially include content that is responded to on the call.
 
 ### Special Language Rules
@@ -116,7 +116,7 @@ In standardizing the rules around contributing, the community maintains a [writi
 * Use [oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
 * Capitalize names of people and online handles.
 * Capitalize and use backticks for any [specific system parameters:](https://docs.makerdao.com/other-documentation/system-glossary)
-  * For example,```flop``` , ```bite``` , ```vow``` , ```kick``` , etc.
+  * For example,`flop` , `bite` , `vow` , `kick` , etc.
 * Do not use backticks when referring to [generalized system language.](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary)
   * For example, Stability Fee, Debt Ceiling, Debt Auction, Vault ETH-A, etc.
 * When referencing material inside the summary itself, please use "below" and "above" language.

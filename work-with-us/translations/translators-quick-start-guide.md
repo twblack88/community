@@ -9,7 +9,7 @@ The role of a translator is to create the initial translation from the original 
 Their responsibility is to:
 
 * **Translate as accurately as possible:** All languages have their nuances, so there is some flexibility when changing the text to be more readable in a new language. Communicate with the rest of the team early and often in the [\#translation](https://chat.makerdao.com/channel/translation) channel. Don’t be afraid to ask others for advice.
-* **Decide which unique terms translate:** Refer to the [Glossary](../makerdao-mcd-faqs/faqs/glossary.md), if the term doesn’t appear there, bring the subject up in the [\#translation](https://chat.makerdao.com/channel/translation) room for discussion.
+* **Decide which unique terms translate:** Refer to the [Glossary](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/makerdao-mcd-faqs/faqs/glossary.md), if the term doesn’t appear there, bring the subject up in the [\#translation](https://chat.makerdao.com/channel/translation) room for discussion.
 * **Provide accurate spelling and grammar**
 * **Be consist:** Ensure terms are translated uniformly across all documents.
 * **Maintain simplicity:** Writing should be plain, simple, and accessible. Maintain contact with other translators as they work on documents. Be sure to agree on translated terms and other conventions.
@@ -20,7 +20,7 @@ Their responsibility is to:
 
 The blockchain space is relatively new. Various languages are slowly developing terms to match the English vocabulary. Reach out to other community members in the [\#translation](https://chat.makerdao.com/channel/translation) room to consult on the best way to translate various terminology.
 
-There’s an English glossary of [MakerDAO terms](../makerdao-mcd-faqs/faqs/glossary.md) which one can work from. There is a chance this glossary has been translated into your language. You should strive to translate each of these terms in a way that makes sense. Additionally, the way the terms are translated should be consistent throughout the documents.
+There’s an English glossary of [MakerDAO terms](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/makerdao-mcd-faqs/faqs/glossary.md) which one can work from. There is a chance this glossary has been translated into your language. You should strive to translate each of these terms in a way that makes sense. Additionally, the way the terms are translated should be consistent throughout the documents.
 
 ## Best Practices
 
@@ -38,7 +38,7 @@ There’s an English glossary of [MakerDAO terms](../makerdao-mcd-faqs/faqs/glos
 * Ask about open translation opportunities in the [\#translation](https://chat.makerdao.com/channel/translation) channel.
 * Fill out the [application form](https://airtable.com/shr415iT3e8S8nuzS).
 * Get assigned a task by the project coordinator.
-* Go to GitHub documents list and select the assigned document, eg: [Dai FAQ](../makerdao-mcd-faqs/faqs/dai.md).
+* Go to GitHub documents list and select the assigned document, eg: [Dai FAQ](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/makerdao-mcd-faqs/faqs/dai.md).
 * Click "Raw", select all, and copy to clipboard.
 * Go to the markdown editor of your choice.
 * Start translating.

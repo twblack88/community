@@ -32,7 +32,7 @@ Yes! The Community Development Group runs various programs that reward contribut
 
 Some opportunities have predefined rewards. Others require plans to be submitted, reviewed, and approved.
 
-To learn more about available reward opportunities, visit [Earn as a Contributor](earn-as-a-contributor.md).
+To learn more about available reward opportunities, visit [Earn as a Contributor](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/contributing/earn-as-a-contributor.md).
 
 To ask specific questions, join the [\#community-development](https://chat.makerdao.com/channel/community-development) channel on MakerDAO's chat.
 

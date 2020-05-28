@@ -18,15 +18,15 @@ Get started with a few initial steps:
 
 Invest some time in gaining a well-rounded knowledge of MakerDAO and help make better contributions.
 
-* Study the [Onboarding Guides](../onboarding/) and [MCD FAQs](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/makerdao-mcd-faqs/README.md) to understand the Maker Protocol on a technical level.
+* Study the [Onboarding Guides](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/onboarding/README.md) and [MCD FAQs](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/makerdao-mcd-faqs/README.md) to understand the Maker Protocol on a technical level.
 * [Learn how the protocol is managed through governance.](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/contributing/governance/README.md)
 * Take advantage of [Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao) to become familiar with MakerDAO’s history, current events, and the latest relevant information.
 
 ## Explore Ways to Earn as a Contributor
 
-MakerDAO is ever-growing. Comm-Dev invites contributors to explore the [many ways to earn as a contributor](earn-as-a-contributor.md) by finding tasks that match their skills and interests.
+MakerDAO is ever-growing. Comm-Dev invites contributors to explore the [many ways to earn as a contributor](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/contributing/earn-as-a-contributor.md) by finding tasks that match their skills and interests.
 
-* [Build Onboarding Guides](../onboarding/)
+* [Build Onboarding Guides](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/onboarding/README.md)
 * [Organize Meetups](../meetups/)
 * [Improve Meetup Guides](../meetups/)
 * [Add to MakerDAO FAQs](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/makerdao-mcd-faqs/README.md)
@@ -36,7 +36,7 @@ MakerDAO is ever-growing. Comm-Dev invites contributors to explore the [many way
 * [Participate in a Hackathon](../hackathons/)
 * [Explore open bounties with Help-Wanted label](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22) or [Browse Help-Wanted section of the MakerDAO Forum](https://forum.makerdao.com/c/comm-dev/help-wanted/11)
 * [Propose initiatives with a Community Development Improvement Proposal \(CDIP\)](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/contributor-onboarding-guide.md)
-* [Apply for a Development Grant for a Large Project](../grants/)
+* [Apply for a Development Grant for a Large Project](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/grants/README.md)
 
 ## Express Interest
 
@@ -139,7 +139,7 @@ Educational and reference materials may be in any form \(e.g., videos, written d
 
 Creating and updating educational and reference materials may require Writers and Reviewers to pass a document back and forth for several iterations before handing it off to an Approver for final review. Therefore, Comm-Dev follows a documentation process model, pictured below, for the flow of a resource from inception to publication.
 
-![Educational and Reference Documentation Process](../.gitbook/assets/educational-reference-documentation-process.jpg)
+![Educational and Reference Documentation Process](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/.gitbook/assets/educational-reference-documentation-process.jpg)
 
 * Certain resources require more steps, depending on the content.
 * V0, V1, and V2 are used to reference the maturity of resources.
@@ -181,14 +181,14 @@ Review all contributor basic guides before starting any work on MakerDAO Communi
 * [Contributor Tools Guide](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/contributing/contributor-tools-guide.md): Introduces the tools regularly used for developing and maintaining Comm-Dev resources.
 * [Writing Style Guide](writing-style-guide.md): Outlines Comm-Dev writing standards of tone and grammar.
 * [Reviewer Guide](reviewer-guide.md): Introduces the review process and outlines editing standards. 
-* [Earn as a Contributor](earn-as-a-contributor.md): Lists the different ways to earn Dai for contributions.
+* [Earn as a Contributor](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/contributing/earn-as-a-contributor.md): Lists the different ways to earn Dai for contributions.
 * [Contributors FAQs](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/contributing/faqs.md): Answers to frequently asked questions.
 
 Some resources have a project-specific guide. Be sure to check for one when working on an existing document.
 
 Specific Resources & Initiatives
 
-* [Visual Style Guide](visual-style-guide.md): Presents the Comm-Dev visual standards.
+* [Visual Style Guide](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/contributing/visual-style-guide.md): Presents the Comm-Dev visual standards.
 * [Governance and Risk Summary Guide](gnr-summary-guide.md): Outlines instructions for producing Risk and Governance meeting call summaries.
 * [Community-Development Initiative Proposal \(CDIP\)](cdip-explainer.md): Describes the process contributors should follow when presenting their own ideas for a contribution.
 
