@@ -6,8 +6,6 @@ description: >-
 
 # Bounties
 
-**Bounties are small to medium tasks that we need help with. They mostly cover work related to this site. You can earn Dai by completing bounties.**
-
 ## Requirements
 
 For most bounties you’ll need a working knowledge of:
