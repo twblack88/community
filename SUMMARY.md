@@ -2,7 +2,7 @@
 
 * [Community Development at Maker](README.md)
 * [Bounties](bounties/README.md)
-  * [Working on bounties](bounties/working-on-bounties.md)
+  * [Working on a bounty](bounties/working-on-a-bounty.md)
 * [Community projects](community-projects/README.md)
   * [Community projects process](community-projects/community-projects-process.md)
 * [Onboarding](onboarding/README.md)
@@ -175,5 +175,5 @@
   * [Governance Call Summary Guide](contributing/gnr-summary-guide.md)
   * [Governance Call Summary Template](contributing/gnr-summary-template.md)
   * [FAQ](contributing/faq.md)
-* [Bounties](bounties.md)
+
 
