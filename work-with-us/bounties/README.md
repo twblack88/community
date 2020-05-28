@@ -33,11 +33,13 @@ Ask in the community chat for help submitting an invoice.
 
 [Community chat ↗](https://chat.makerdao.com/channel/community-development)
 
-## Got a bigger idea?
+{% hint style="info" %}
+### Got a bigger idea?
 
 If you’ve got a big idea to help improve this site or the Maker community, we want to hear from you. You can submit a proposal and get up to 5000 Dai in funding if we like your idea.
 
 [Community projects](https://github.com/ryancreatescopy/community/tree/d25c68bb6726992e3c118c1ef7bb8f61a30bccf2/work-with-us/community-projects/README.md)
+{% endhint %}
 
 ## Suggested reading
 
