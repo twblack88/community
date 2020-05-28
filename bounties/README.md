@@ -17,7 +17,7 @@ We’ll review your drafts and early iterations in Google docs
 - [ ] **Maker**
 You’ll need to know about Maker. The community has created plenty of reading material to get you up to speed. [Learn about Maker](/faqs "Maker FAQs")
 
-[See open bounties↗](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22 "To all open bounties")
+[See open bounties ↗](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22 "To all open bounties")
 
 ## Start work
 If you think you meet all the requirements, you’re ready to start work. As soon as you spot a bounty you’d like to work on, let us know in the chat. From there we can assign you folks from the community to help you get started.
