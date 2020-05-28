@@ -49,4 +49,4 @@ Maybe you don’t have an idea just yet but want to help out. Successful proposa
 ### The community project process
 See what happens once your proposal has been approved.
 
-[Community project process](community-projects/community-projects-process)
+[Community project process](community-projects/community-projects-process.md)
