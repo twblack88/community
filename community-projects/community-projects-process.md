@@ -15,9 +15,9 @@ There are a number of roles involved in a community project:
 ## Workflow
 Below is a visual representation of our current process.
 
-Green: proposal owner
-Purple: approving group
-Orange: both
+- Green: proposal owner
+- Purple: approving group
+- Orange: both
 
 [The community project process](./cdip-contributor-highlights.jpg)
 
