@@ -1,4 +1,4 @@
-# Contributing hello
+# Contributing
 
 Welcome to the MakerDAO Community Development Contributing Section, a place that guides community members towards the resources they need to contribute to MakerDAO.
 
