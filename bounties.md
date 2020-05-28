@@ -1,4 +1,0 @@
-# Bounties
-
-test
-
