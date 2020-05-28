@@ -3,7 +3,7 @@
 **Bounties come in many shapes and sizes but there’s a few ways to make sure things run smoothly. Here’s what we recommend.**
 
 💡 _If there’s a bounty you want to work on, make sure you express interest in the chat before doing anything else.
-[Community chat↗](https://chat.makerdao.com/channel/community-development "Community development chat")_
+[Community chat ↗](https://chat.makerdao.com/channel/community-development "Community development chat")_
 
 ## The process
 
@@ -44,7 +44,7 @@ When your work is ready for final approval, you’ll need to submit a pull reque
 Once your pull request has been approved we’ll let you know how to request your Dai.
 
 ### 5. Help improve the process
-Once a bounty has been completed, it would be great if you could let us know what went well and what didn’t. And suggest any ideas you might have for improvements. This can be done on a call or via [community chat↗](https://chat.makerdao.com/channel/community-development "Community development chat")
+Once a bounty has been completed, it would be great if you could let us know what went well and what didn’t. And suggest any ideas you might have for improvements. This can be done on a call or via [community chat ↗](https://chat.makerdao.com/channel/community-development "Community development chat")
 
 ## See open Bounties
 Ready to get to work? Check out what bounties we currently need help with.
