@@ -1,5 +1,9 @@
+---
+description: >-
+  If you’ve got an idea for improving the MakerDAO community resources, we can provide up to 5,000 Dai to help make it happen.
+---
+
 # Community projects
-**If you’ve got an idea for improving the MakerDAO community resources, we can provide up to 5,000 Dai to help make it happen.**
 
 ## Examples
 Community member @asterix proposed an expansion to the transparency dashboard which highlights data on Maker’s community initiatives like hackathons and meetups.
