@@ -1,5 +1,9 @@
+---
+description: >-
+  Here’s an outline of how community projects tend to work and some resources we think might be helpful.
+---
+
 # Community projects process
-**Here’s an outline of how community projects tend to work and some resources we think might be helpful.**
 
 ## Roles
 There are a number of roles involved in a community project:
