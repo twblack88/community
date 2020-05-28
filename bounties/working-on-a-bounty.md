@@ -3,7 +3,7 @@
 **Bounties come in many shapes and sizes but there’s a few ways to make sure things run smoothly. Here’s what we recommend.**
 
 💡 _If there’s a bounty you want to work on, make sure you express interest in the chat before doing anything else.
-[Community chat↗] (https://chat.makerdao.com/channel/community-development "Community development chat")_
+[Community chat↗](https://chat.makerdao.com/channel/community-development "Community development chat")_
 
 ## The process
 
