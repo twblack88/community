@@ -6,7 +6,9 @@ description: >-
 
 # Working on a bounty
 
-💡 _If there’s a bounty you want to work on, make sure you express interest in the chat before doing anything else._ [_Community chat ↗_](https://chat.makerdao.com/channel/community-development)
+{% hint style="info" %}
+_If there’s a bounty you want to work on, make sure you express interest in the chat before doing anything else._ [_Community chat ↗_](https://chat.makerdao.com/channel/community-development)
+{% endhint %}
 
 ## The process
 
@@ -30,9 +32,11 @@ We created a project plan template to help you get what you need.
 
 Use the resources to help you do your best work.
 
-* [Writing style guide](../contributing/writing-style-guide.md)
-* [Editorial standards](../contributing/reviewer-guide.md)
-* [Visual style guide](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/contributing/visual-style-guide.md)
+{% page-ref page="../contributing/writing-style-guide.md" %}
+
+{% page-ref page="../contributing/reviewer-guide.md" %}
+
+{% page-ref page="../contributing/visual-style-guide.md" %}
 
 ### 3. Work openly
 
