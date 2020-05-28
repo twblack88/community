@@ -22,7 +22,7 @@ Orange: both
 [The community project process](./cdip-contributor-highlights.jpg)
 
 ### 1. Submit your proposal
-To submit a proposal follow [these instructions](/community-projects)
+To submit a proposal follow [these instructions](./community-projects.md)
 
 ### 2. Wait for feedback
 The approving group will reach out to the proposal owner and provide feedback. You’ll work on scoping, costs, resources and timeline.
@@ -52,9 +52,9 @@ If you need more resources than you first thought, let your advisor know. They w
 ### Community resources
 Here’s a list of resources we have already that might be useful for your work:
 
-- [Writing style guide](./contributing/writing-style-guide.md) – How to write like Maker
-- [Editorial standards](/contributing/reviewer-guide) – What to look out for when reviewing work
-- [Visual style guide](/contributing/visual-style-guide) – How to look like Maker
+- [Writing style guide](../contributing/writing-style-guide.md) – How to write like Maker
+- [Editorial standards](../contributing/reviewer-guide.md) – What to look out for when reviewing work
+- [Visual style guide](../contributing/visual-style-guide.md) – How to look like Maker
 - [Design files and assets](https://www.notion.so/makerdao/Maker-Brand-ac517c82ff9a43089d0db5bb2ee045a4) – Official Maker and Dai logos, badges and product screenshots.
 
 ## Questions
@@ -65,4 +65,4 @@ Reach out to us on the community chat if you want to know any more about submitt
 ## Submit a proposal
 Ready to share your idea with us? Submit a proposal and earn up to 5000 Dai.
 
-[Submit a community proposal](/community-projects)
+[Submit a community proposal](./community-projects.md)
