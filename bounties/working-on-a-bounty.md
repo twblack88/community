@@ -20,7 +20,7 @@ You’ll need to figure out:
 
 We created a project plan template to help you get what you need.
 
-[Project planning template↗](https://bit.ly/comm-dev-project-planning-template)
+[Project planning template ↗](https://bit.ly/comm-dev-project-planning-template)
 
 ### 2. Review the resources
 Use the resources to help you do your best work.
@@ -49,7 +49,7 @@ Once a bounty has been completed, it would be great if you could let us know wha
 ## See open Bounties
 Ready to get to work? Check out what bounties we currently need help with.
 
-[See open bounties↗](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22 "To all open bounties")
+[See open bounties ↗](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22 "To all open bounties")
 
 ## Want to improve this page?
 Learn how to suggest content changes to this page.
