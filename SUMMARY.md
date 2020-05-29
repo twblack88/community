@@ -64,7 +64,7 @@
   * [Meetup funding](funding/meetup-funding.md)
   * [Community projects](funding/community-projects/README.md)
     * [Community projects process](funding/community-projects/community-projects-process.md)
-  * [Development Grants Program](funding/grants/README.md)
+  * [Development grants](funding/grants/README.md)
     * [Grantee Playbook](funding/grants/grantee-playbook.md)
 * [Learn](learn/README.md)
   * [Vaults](learn/vaults.md)

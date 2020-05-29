@@ -1,20 +1,99 @@
-# Development Grants Program
+---
+description: >-
+  If you’re looking for up to 50,000 Dai to help get your product idea off the
+  ground, apply for a development grant.
+---
 
-_**Please Note: The grants program is not accepting new applications as we work through a larger than normal backlog of proposals. The program will re-open on June 1, 2020.**_
+# Development grants
 
-The MakerDAO Community grants program is designed to directly support projects that increase Dai adoption, support emerging economies, open up new markets, provide novel uses for the stablecoin, or otherwise further the principles of the MakerDAO Foundation. We allocate grants in the range of 5K - 50K Dai. We distribute blocks of funds as teams reach predetermined milestones.
+## Funding
 
-We like to think of our grantees as highly self-directed remote teams, and as such, the model we use to incubate our grants require regular check-ins, operational transparency, high developer velocity, active repositories, frequent communications with MakerDAO and other members of the cohort. How well teams meet these requirements will determine if a milestone has been reached and whether additional funds will be released.
+We fund all kinds of teams creating infrastructure and applications within the Maker ecosystem. So far we’ve awarded 683,887 Dai since February 2018.
 
-We are interested in a wide range of projects but our current focus is primarily around novel, usable tools that directly benefit Dai users, increase Dai adoption and/or increase access to personal liquidity. Pure R&D, information gathering, additional runway, or Ethereum ecosystem improvements are generally outside the scope of the program. We also do not allocate grants that contain large marketing budgets and/or Dai giveaways and airdrops. Because the program is based on milestones, grants are expected to fund specific feature-sets.
+### What we fund
 
-As part of the application process, MakerDAO will ask for a clearly written, one or two-page explanation outlining exactly what the project does, the problem it solves, why it will be successful, and a rough projected budget. After the initial review, we may also request links to demos, architecture diagrams, flows that show custody of assets, use cases, competitive analysis, slide decks, source code, etc.
+* Tools that directly benefit Dai users 
+* Tools that increase Dai adoption 
+* Tools that increase access to personal liquidity
 
-Our grants program is designed to allow teams to achieve a successful release of their passion project. Due to the high volume of worthy requests we receive and the limited resources available, we prioritize applications that have _very_ conservative budgets.
+### What we don't fund
 
-Teams that successfully complete their milestones and launch a product may also gain access to internal MakerDAO resources. These resources can take many forms from code reviews and external security audits, to consultations with Legal, Public Relations and/or Business Development teams. Successful projects will also be prioritized for continued granting and or possible investments from MakerDAO in future iterations of the program.
+* Pure R&D 
+* Information gathering 
+* Additional runway 
+* Ethereum ecosystem improvements 
 
-## Applying
+We also do not allocate grants that contain large marketing budgets and/or Dai giveaways and airdrops.
 
-Projects that propose novel and usable tools that directly benefit the Dai/CDP ecosystem, are invited to send a one or two page detailed description outlining _exactly what the project does_, how it works, the problem it solves, and a projected budget to grants@makerdao.com. Please remember, we prioritize applications that have _very_ conservative budgets.
+{% hint style="info" %}
+Due to the high volume of worthy requests we receive and the limited resources available, we prioritize applications that have very conservative budgets.
+{% endhint %}
+
+## Requirements
+
+This grant is for teams building on Maker or Dai. You’ll need to:
+
+* [ ] self-direct your own work 
+* [ ] commit to regular check-ins 
+* [ ] work fast and openly
+* [ ] share code repository activity 
+* [ ] communicate often – with us and other members of the cohort 
+* [ ] split your work into milestones – we distribute blocks of funds as you reach predetermined milestones.
+
+Our grantee playbook should give you more an idea of what’s expected.
+
+{% page-ref page="grantee-playbook.md" %}
+
+{% hint style="success" %}
+### Apply to grants@makerdao.com
+
+To apply, send an email that explains the following about your product idea:
+
+#### What the project does
+
+Who are you helping? Describe the problem you’re solving and the technical solution you’re working towards.
+
+#### Budget
+
+Approximately what will it cost to build? How will that budget be split?
+
+#### Why will it be successful?
+
+What’s your strategy for making this idea a success? Our grantee playbook is a great place for some best practice. Grantee playbook
+{% endhint %}
+
+{% hint style="info" %}
+After the initial review, we may also request links to demos, architecture diagrams, flows that show custody of assets, use cases, competitive analysis, slide decks, source code. So have those ready if applicable.
+{% endhint %}
+
+## Examples
+
+[**Burner wallet**](https://xdai.io/)[**↗**](https://xdai.io)  
+A mobile phone can send DAI to another in 5 seconds with a simple QR code scan  
+  
+[**CDP.tools↗**](https://cdp.tools/)  
+****APAC region monitoring and alerting for CDPs & Wechat
+
+[**Ching! Store ↗**](https://ching.store/)  
+****Create Dai transaction pop-up markets with a white-label POS system.
+
+## Community project ideas
+
+If your idea is more about improving our community initiatives or this site, then you’ll want to suggest a new community project instead.
+
+{% page-ref page="../community-projects/" %}
+
+## Suggested reading
+
+### Grants data
+
+See how much Dai we’ve granted and more with our grants overview.
+
+[Dashboard **↗**](https://transdashv201.netlify.app/)\*\*\*\*
+
+### **Grantee playbook**
+
+Our playbook covers everything you need to be a successful grantee.
+
+{% page-ref page="grantee-playbook.md" %}
 
