@@ -23,31 +23,31 @@ Below is a visual representation of our current process.
 * Purple: approving group
 * Orange: both
 
-[The community project process](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/funding/community-projects/cdip-contributor-highlights.jpg)
+![The process for getting a community project started](../../.gitbook/assets/cdip-contributor-highlights.jpg)
 
-### 1. Submit your proposal
+## 1. Submit your proposal
 
 To submit a proposal follow [these instructions](./)
 
-### 2. Wait for feedback
+## 2. Wait for feedback
 
 The approving group will reach out to the proposal owner and provide feedback. You’ll work on scoping, costs, resources and timeline.
 
-### 3. Wait for a decision
+## 3. Wait for a decision
 
 The approving group meets to discuss which proposals will get funding. We’ll reach out to any successful proposal owners.
 
-### 4. Start work
+## 4. Start work
 
 If it’s a small or medium scoped project and you’ve addressed any feedback, work can then begin.
 
 If it’s a large project, a proposal will need to be split into GitHub issues/tasks and another call with the approving group will be needed to confirm costs and resources.
 
-### 5. Communicate progress
+## 5. Communicate progress
 
 The project will have checkpoints and you will be expected to present progress at Community weekly syncs.
 
-### 6. Evaluate at a retrospective
+## 6. Evaluate at a retrospective
 
 Once the work is done, there’ll be a review and retrospective to show off the work, discuss what went well and what can be improved.
 
@@ -79,5 +79,5 @@ Reach out to us on the community chat if you want to know any more about submitt
 
 Ready to share your idea with us? Submit a proposal and earn up to 5000 Dai.
 
-[Submit a community proposal](./)
+{% page-ref page="./" %}
 
