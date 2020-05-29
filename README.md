@@ -1,52 +1,40 @@
+---
+description: >-
+  We want to help grow the MakerDAO ecosystem. Our initiatives and resources
+  below show you how you can get involved.
+---
+
 # Community Development at Maker
 
-The Community Development group's mandate is to directly foster the growth of the MakerDAO ecosystem by incentivizing our most motivated members. We do this through a series of initiatives that encourage people to participate in, and contribute to, the success of the Dai Stablecoin platform.
+## Work with us
 
-## Our Initiatives
+You can help us make the community even better. See open bounties, help write content, join the translation team and more.
 
-### [Community Meetup Grants]()
+[**Bounties**](work-with-us/bounties/) **🗂**  
+Community to-dos we need help with
 
-Community members play an invaluable role in building a stronger MakerDAO ecosystem. The Community Development Group provides the resources needed to increase Dai adoption and help MakerDAO bring stability and financial inclusion to the world. To accomplish these goals, we created a 'Do It Yourself' Meetup guide and microgranting program dedicated to helping anyone create and organize a local community meetup.
+**Content ✏️**  
+Suggest new content or make improvements to what’s here  
+  
+[**Translations**](work-with-us/translations/) **🌍**  
+Become a translator for our community resources  
+  
+[**Hackathons**](work-with-us/hackathons/) **☕️**  
+Organise a Maker hackathon to get people building with Maker or Dai
 
-### [Community Translations]()
+\*\*\*\*[**Meetups**](work-with-us/meetups/) **👥**  
+Organise a Maker meetup to get people talking and learning about Maker or Dai
 
-We bring MakerDAO educational content to people around the world in their native languages by incentivizing our community translators with Dai bounties.
+\*\*\*\*[**Governance meetings**](work-with-us/governance-and-risk-meeting/) **⚖️**  
+Join our weekly meetings or volunteer to take notes
 
-### [Development Grants Program]()
+## Get funding for ideas and events
 
-The MakerDAO Community grants program provides funding for projects that increase Dai adoption, support emerging economies, open new markets, provide novel uses for the stablecoin, or otherwise further the principles of the MakerDAO Foundation.
+We give out grants for new and innovative uses of Maker/Dai and we help fund meetups that bring people together to talk about Dai!
 
-### [Hackathons]()
+{% page-ref page="funding/" %}
 
-MakerDAO participates in a number of Hackathons every year. This section contains some information about how to request our participation in an upcoming event.
+## Level up your Maker knowledge
 
-### [Contributing]()
-
-If you have any suggestions about how you think these initiatives should work, could be improved, or if you are interested in helping out, please join our [\#community-development](https://chat.makerdao.com/channel/community-development) channel and introduce yourself.
-
-## Our Resources
-
-### [Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao/)
-
-Awesome-MakerDAO is a community-curated list of MakerDAO-related resources and content to which anyone can contribute. It contains official documentation, beginner guides, in-depth analysis, links to 3rd party tools, partnership announcements, AMAs, podcasts, and much more.
-
-### [MakerDAO MCD FAQs]()
-
-This section provides answers to commonly asked questions about everything MakerDAO.
-
-We welcome you to help improve the MakerDAO FAQs by submitting Pull Requests or reaching out to us with feedback.
-
-### [MakerDAO SCD FAQs]()
-
-This section provides answers to commonly asked questions about everything MakerDAO, specifically as it related to the Single-Collateral Dai version of the system.
-
-We welcome you to help improve the MakerDAO FAQs by submitting Pull Requests or reaching out to us with feedback.
-
-### [Governance]()
-
-To ensure good governance and accountability, we've set up this section to contain helpful resources such as transcripts of the meetings, historical summaries, and more.
-
-### [Onboarding Guides]()
-
-These are community-built guides to help onboard different types of users into our ecosystem. Whether you're a potential MKR voter, a Vault owner, or Dai user, this section should have something for you. If it doesn't, reach out to us in our [chat](https://chat.makerdao.com/channel/community-development) or [forums](https://forum.makerdao.com/). This section has a handful of guides _coming soon™️._
+The community have put together the following pages to help you level up your Maker knowledge
 
