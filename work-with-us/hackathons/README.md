@@ -1,4 +1,4 @@
-# Hackathons and Bounties
+# Hackathons
 
 Welcome to the MakerDAO Hackathons Initiative: A place where organizers can get the information they need to include MakerDAO in their hackathons and where hackers can find the developer resources they need to build thier projects.
 

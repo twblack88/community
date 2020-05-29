@@ -25,7 +25,7 @@ Organise a Maker hackathon to get people building with Maker or Dai
 \*\*\*\*[**Meetups**](work-with-us/meetups/) **👥**  
 Organise a Maker meetup to get people talking and learning about Maker or Dai
 
-\*\*\*\*[**Governance meetings**](work-with-us/governance-and-risk-meeting/) **⚖️**  
+\*\*\*\*[**Governance meetings**](work-with-us/governance-and-risk-meetings/) **⚖️**  
 Join our weekly meetings or volunteer to take notes
 
 ## Get funding for ideas and events

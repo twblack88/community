@@ -37,25 +37,30 @@ You’ll be assigned a guide to help you iterate on your proposal, plan the work
 
 ## Dos and Don'ts
 
-✅ **DO**
+{% hint style="success" %}
+**DO**
 
 * Check existing or past [proposals ↗](https://github.com/makerdao/community/issues?q=label%3ACDIP+)
 * Spend 1-3 hours on properly fleshing out your proposal
 * Bring friends and colleagues in to hep if necessary
+{% endhint %}
 
-❌ **DON'T**
+{% hint style="danger" %}
+**DON'T**
 
 * Start work before approval, you may not be paid for it
 * Submit more than one proposal at a time
 * Duplicate an existing proposal
 * Submit a proposal for small pieces of work
+{% endhint %}
 
 ## Contribute to a community project
 
 Maybe you don’t have an idea just yet but want to help out. Successful proposals are turned into GitHub issues. You can comment on those or contact the owner if you’d like to get involved.
 
 * [See open bounties ↗](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22)
-* [Learn about Bounties](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/bounties/README.md)
+
+{% page-ref page="../../work-with-us/bounties/" %}
 
 ## Suggested reading
 
@@ -63,5 +68,7 @@ Maybe you don’t have an idea just yet but want to help out. Successful proposa
 
 See what happens once your proposal has been approved.
 
-[Community project process](community-projects-process.md)
+{% page-ref page="community-projects-process.md" %}
+
+
 

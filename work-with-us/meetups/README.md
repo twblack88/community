@@ -1,4 +1,4 @@
-# Meetup Grants and Guides
+# Meetups
 
 _**Funding for virtual meetups is available.**_
 
@@ -50,7 +50,7 @@ Ready to start planning your meetup? We've created a [guide](getting-started-gui
 
 If you're seasoned or want to wing it, here's the information on [requesting funds](https://community-development.makerdao.com/meetups/requesting-funds). Our Micro-grant [applications](https://airtable.com/shr4HOtcZ8o3VZmek) are open.
 
-Interested in contributing to the Hosting Guides? Learn how in our [contributing section](../contributing/).
+Interested in contributing to the Hosting Guides? Learn how in our [contributing section](../content/).
 
 ## Status
 

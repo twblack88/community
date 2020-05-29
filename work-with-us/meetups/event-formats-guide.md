@@ -4,7 +4,7 @@ Here is a non-exhaustive list of suggestions for the different types of categori
 
 ## A Note on Physical versus Virtual Formats
 
-Many meetup formats mentioned below work for both physical and virtual events. The important guidelines for running effective meetups apply to both. Virtual meetups are a newer trend that have not been explored to their full potential. We highly encourage organizers to experiment with interesting and engaging formats and to [add their ideas to this guide!](../contributing/)
+Many meetup formats mentioned below work for both physical and virtual events. The important guidelines for running effective meetups apply to both. Virtual meetups are a newer trend that have not been explored to their full potential. We highly encourage organizers to experiment with interesting and engaging formats and to [add their ideas to this guide!](../content/)
 
 ## Know Your Crowd
 
@@ -79,5 +79,5 @@ Focus on engaging the crowd and making the meetup a little more fun.
 
 ## Add to This Guide
 
-Interested in contributing to this Guides or others? Learn how on our [contributing page.](../contributing/)
+Interested in contributing to this Guides or others? Learn how on our [contributing page.](../content/)
 
