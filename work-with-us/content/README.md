@@ -30,10 +30,12 @@ Reference content help improve Maker’s processes. It provides documented detai
 
 ### Requirements
 
+Content contributors should be:
+
 * [ ] Excited to grow the MakerDAO community and its resources
 * [ ] Familiar with Github, Markdown, Google Docs, and HackMD
-* [ ] Skilled at communications, particularly writing
-* [ ] Work well in teams
+* [ ] Skilled at communication, particularly writing
+* [ ] Collaborative and used to working in a team
 
 {% hint style="success" %}
 ### Suggest new content in chat
