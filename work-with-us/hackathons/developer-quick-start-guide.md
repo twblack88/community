@@ -9,7 +9,7 @@ description: >-
 
 ## Developer Resources
 
-MakerDAO is a complex system, with many parts. A curated list of developer resources relating to MakerDAO can be found in our [Awesome-MakerDAO repository](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#developer-resources) to help you with your project.
+MakerDAO is a complex system, with many parts. To help you with your project, we've curated a whole list of developer resources in the [Awesome-MakerDAO repository↗ ](https://awesome.makerdao.com/#developer-resources)
 
 ## What Should I Bring
 
