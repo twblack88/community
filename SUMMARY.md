@@ -22,6 +22,7 @@
   * [Hackathons](work-with-us/hackathons/README.md)
     * [Guide to hacking](work-with-us/hackathons/developer-quick-start-guide.md)
   * [Governance and risk meetings](work-with-us/governance-and-risk-meetings/README.md)
+    * [Take notes](work-with-us/governance-and-risk-meetings/take-notes.md)
     * [Governance Call Summary Template](work-with-us/governance-and-risk-meetings/gnr-summary-template.md)
     * [Governance Call Summary Guide](work-with-us/governance-and-risk-meetings/gnr-summary-guide.md)
     * [Summaries](work-with-us/governance-and-risk-meetings/summaries/README.md)
