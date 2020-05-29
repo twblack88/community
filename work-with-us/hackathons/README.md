@@ -1,50 +1,54 @@
+---
+description: >-
+  Hacking with Maker or Dai at a hackathon helps strengthen the developer
+  community behind Maker and stretch what’s possible with the technology.
+---
+
 # Hackathons
 
-Welcome to the MakerDAO Hackathons Initiative: A place where organizers can get the information they need to include MakerDAO in their hackathons and where hackers can find the developer resources they need to build thier projects.
+{% hint style="info" %}
+If you’re organising a hackathon and want funding you can apply for a Dai grant. [Hackathon funding](../../funding/hackathon-funding.md)
+{% endhint %}
 
-_**Please Note: Community Development is not accepting new sponsorships as we work through a larger than normal backlog of proposals, in addition to precautions for COVID-19. Sponsorship applications will re-open on July 1, 2020.**_
+## Start hacking
 
-## Project Snapshot
+### Backend development
 
-* Build for DeFi
-* Earn bounties in Dai
-* Find the resources you need
-* Solve problems
+\*\*\*\*[**Maker developer resources ↗**](https://awesome.makerdao.com/#developer-resources)  
+****A curated list of documentation, guides, tools and APIs  
+  
+[**Maker protocol docs ↗**](https://docs.makerdao.com)  
+****Smart contract and protocol level documentation
 
-## What are we trying to accomplish?
+### Frontend development
 
-[MakerDAO](https://makerdao.com/) is a decentralised organization that brings stability to the crypto economy through Dai, the world's first decentralized stablecoin on the Ethereum blockchain. Dai is a secure, transparent, censorship-resistant programmable money that is the perfect building block for many emerging use-cases on the blockchain.
+**Dai UI ↗**  
+Maker-branded components and templates  
+  
+[**Rimble UI 💜 ↗**](https://rimble.consensys.design)  
+****Components and templates for decentralized applications
 
-We believe that the future is decentralized and that you can make it real by building with Dai. By participating in, sponsoring, and organizing hackathons the Maker Foundation hopes to strengthen the developer community and push the limits of what can be built around MakerDAO and Dai.
+## First hackathon?
 
-## Project Description
+If you’re new to hackathons, we’ve prepared a guide to help you understand what to expect. We’ll cover what you should bring and some best practices for during the event and after.
 
-The Maker Foundation is involved in hackathons in many ways:
+{% page-ref page="developer-quick-start-guide.md" %}
 
-* Sponsor prizes
-* Come up with hackathon themes and tracks
-* Participate as judges and mentors
-* Enroll hackathon participants and winners into our [Grants program](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/grants/README.md)
+{% hint style="info" %}
+If you have some insight you’d like to share, feel free to suggest new guides or edits to the existing ones. You can find out how on our [content page](../content/)
+{% endhint %}
 
-## Is this for me?
+## Development grants
 
-### Developer
+Our development grants program uses Hackathons as a way to find good candidates. Winners are often fast tracked into our grants program. If you’re planning on taking part in a hackathon, it might be a good idea to get on our radar.
 
-* Passion for programmable money
-* Skills in various languages like Javascript, Solidity, or React
-* Excitement to build and be recognized
+{% page-ref page="../../funding/grants/" %}
 
-### Organizer
+## Organizing a hackathon?
 
-* Track record of successful hackathons
-* Community excited to build with Dai
-* Desire to help build the future of finance
+If you’re organising a hackathon that heavily involves Maker or DAI, we might help fund it. Find out if your hackathon is eligible.
 
-## How do I get involved?
+{% page-ref page="../../funding/hackathon-funding.md" %}
 
-If you're participating in a hackathon, check out our [Developer Quick Start Guide](developer-quick-start-guide.md) for all that you need to get started.
-
-If you're organizing a hackathon and would like us to help, participate, or sponsor your event please visit our [Organizer Quick-Start Guide](organizer-quick-start-guide.md).
-
-For other questions about hackathons please message us in our [chat](https://chat.makerdao.com/channel/community-development) or email us at hackathons@makerdao.com.
+For other questions about hackathons please email us at hackathons@makerdao.com or reach out in our [community chat **↗**](https://chat.makerdao.com/channel/community-development)\*\*\*\*
 
