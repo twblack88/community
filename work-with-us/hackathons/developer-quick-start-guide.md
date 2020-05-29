@@ -1,6 +1,11 @@
-# Developer Quickstart Guide
+---
+description: >-
+  Welcome to the MakerDAO Quick Start Guide for Developers. Our goal in this
+  guide is to point hackathon participants in the right direction for any of
+  their needs.
+---
 
-Welcome to the MakerDAO Quick Start Guide for Developers. Our goal in this guide is to point hackathon participants in the right direction for any of their needs.
+# Guide to hacking
 
 ## Developer Resources
 
@@ -10,15 +15,15 @@ MakerDAO is a complex system, with many parts. A curated list of developer resou
 
 Non-obvious essentials:
 
-* Notebook/scratch paper + pen/pencil
-* The will to live
-* Toothbrush & paste
-* Deodorant
-* Sleeping bag/blanket, pillow
-* Sweater or jacket
-* Umbrella or raincoat
-* Extra clothes depending on the length of the event
-* Tylenol/Advil
+* [ ]  Notebook/scratch paper + pen/pencil
+* [ ]  The will to live
+* [ ] Toothbrush & paste
+* [ ] Deodorant
+* [ ] Sleeping bag/blanket, pillow
+* [ ] Sweater or jacket
+* [ ] Umbrella or raincoat
+* [ ]  Extra clothes depending on the length of the event
+* [ ] Tylenol/Advil
 
 ## Best Practices
 
@@ -41,5 +46,7 @@ Non-obvious essentials:
 
 The Maker Grants Program uses Hackathons as a way to find good candidates for development grants. Winners are often fast tracked into our grants program.
 
-We review all hacks and may reach out to interesting projects that were not necessarily winners. Make sure you get on our radar by filling out this [form](https://airtable.com/shrmEMdxtYDUKtEkU).
+We review all hacks and may reach out to interesting projects that were not necessarily winners. Make sure you get on our radar.
+
+{% page-ref page="../../funding/grants/" %}
 

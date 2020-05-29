@@ -20,7 +20,7 @@
     * [Budget Guide](work-with-us/meetups/budget-guide.md)
     * [Español](work-with-us/meetups/meetup-diy-kit-es.md)
   * [Hackathons](work-with-us/hackathons/README.md)
-    * [Developer Quickstart Guide](work-with-us/hackathons/developer-quick-start-guide.md)
+    * [Guide to hacking](work-with-us/hackathons/developer-quick-start-guide.md)
   * [Governance and risk meetings](work-with-us/governance-and-risk-meetings/README.md)
     * [Governance Call Summary Template](work-with-us/governance-and-risk-meetings/gnr-summary-template.md)
     * [Governance Call Summary Guide](work-with-us/governance-and-risk-meetings/gnr-summary-guide.md)
