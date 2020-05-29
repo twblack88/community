@@ -1,43 +1,85 @@
+---
+description: >-
+  Help us improve this community site by creating new content or suggesting
+  improvements to any content that’s already here.
+---
+
 # Content
 
-Welcome to the MakerDAO Community Development Contributing Section, a place that guides community members towards the resources they need to contribute to MakerDAO.
+## New content
 
-## Project Snapshot
+We welcome videos, documents, pictures or anything that you think falls into either of these two categories.
 
-* Be part of the team.
-* Help improve community resources.
-* Give feedback.
-* Grow the MakerDAO community.
+### Learn content
 
-## What are we trying to accomplish?
+Learn content turns MakerDAO novices into experts and improves everyone’s technical understanding.
 
-MakerDAO Community Development provides the community with the tools needed to improve the ecosystem. This is achieved by facilitating opportunities for people to create, update, and maintain MakerDAO's public set of community resources.
+* [Awesome-MakerDAO ↗](https://awesome.makerdao.com) 
+* [Guide to Vaults](../../learn/vaults.md) 
+* [Guide to DAI ](../../learn/dai.md)
+* [Guide to Governance](../../learn/governance/)
 
-## Section Description
+### Reference content
 
-Community members have numerous options for contributing. Whether translating documents, producing new educational resources, proofreading existing resources for grammatical errors, or adding questions and answers to the FAQs, standards and best practices can be found within the numerous contributor guides available in this section.
+Reference content help improve Maker’s processes. It provides documented details about a given domain, like
 
-## Is this for me?
+* [Governance call notes](../governance-and-risk-meetings/)
+* [Writing style guide](writing-style-guide.md)
+* [Development grants](../../funding/grants/)
+* Even this page...
 
-* Passionate and knowledgeable about MakerDAO.
-* Excited to grow the MakerDAO community and its resources.
-* Familiar with Github, Markdown, Google Docs, and HackMD.
-* Skilled at communications, particularly writing.
-* Work well in teams.
+### Requirements
 
-## How do I get involved?
+* [ ] Excited to grow the MakerDAO community and its resources
+* [ ] Familiar with Github, Markdown, Google Docs, and HackMD
+* [ ] Skilled at communications, particularly writing
+* [ ] Work well in teams
 
-Every contributor arrives at Community Development in their own way, but here is a suggested pathway:
+{% hint style="success" %}
+### Suggest new content in chat
 
-* Make better contributions with a well-rounded knowledge of MakerDAO. Invest some time to learn about MakerDAO.
-  * Utilize [Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao) to study and become familiar with:
-    * How the Maker Protocol works on a technical level.
-    * How the protocol is managed through governance.
-    * MakerDAO’s history, current events, and the latest relevant information. 
-* Explore the [Earn as a Contributor Guide](https://github.com/ryancreatescopy/community/tree/05625ac9da715dde58095901b61bc4e69cd5fe82/work-with-us/contributing/earn-as-a-contributor.md) to learn how to earn rewards as a contributor.
-  * Browse through the latest contributing opportunities at [GitHub Issues with Help-Wanted label](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22) and [Help-Wanted section of the MakerDAO Forum](https://forum.makerdao.com/c/comm-dev/help-wanted/11)
-  * Explore the [CDIP Explainer process](cdip-explainer.md), which outlines the process for proposing new ideas and initiatives.
-* Join the [\#community-development](https://chat.makerdao.com/channel/community-development) channel on MakerDAO's chat to express interest.
-* Start with the [Contributor Onboarding Guide](contributor-onboarding-guide.md) to understand the structure and logic behind contributing to Community Development.
-* Read through the various [Contributor Guides](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/contributing/contributing.md) to get familiar with Comm-Dev’s tools and best practices.
+To get started, let us know what you want to create in the community chat. A friendly community member will get back to you and explain the next steps.
+
+[Community chat ↗ ](https://chat.makerdao.com/channel/community-development)
+{% endhint %}
+
+{% hint style="info" %}
+Make sure you check our open bounties first. There may already be a bounty for your idea. [Bounties](../bounties/)
+{% endhint %}
+
+## Make edits and improvements
+
+Any page on this site can be edited by anyone because we believe open-source contributions is the key to a healthy community. If you spot any mistakes or would like to add any extra information, feel free to hit Edit. This will be done via GitHub and go through a review process.
+
+{% page-ref page="how-to-use-github.md" %}
+
+## Payment
+
+You can earn Dai for your content. We’ll discuss payment with you after you’ve explained your idea in the chat. Ask in the community chat for help submitting an invoice.
+
+[Community chat ↗ ](https://chat.makerdao.com/channel/community-development)
+
+## Content resources
+
+These resources should help you make or edit content for the community.
+
+{% page-ref page="writing-style-guide.md" %}
+
+{% page-ref page="reviewer-guide.md" %}
+
+{% page-ref page="visual-style-guide.md" %}
+
+## Suggested reading
+
+### Publishing process
+
+See how your content goes from idea to published content on the site.
+
+{% page-ref page="content-publishing-process.md" %}
+
+### Using GitHub
+
+We use GitHub to manage the content on the site. Learn how it works.
+
+{% page-ref page="how-to-use-github.md" %}
 
