@@ -6,6 +6,10 @@ description: >-
 
 # Hackathon funding
 
+{% hint style="danger" %}
+**Funding for hackathons is currently closed**
+{% endhint %}
+
 ## Apply for funding
 
 ### Eligible hackathons
