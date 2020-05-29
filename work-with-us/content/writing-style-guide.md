@@ -7,7 +7,7 @@ The MakerDAO Community Writing Style Guide summarizes the standards and best pra
 
 In addition to this guide, Writers are encouraged to study the [contributor resources](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/contributing/readme.md) before starting work on a Community Development project.
 
-* [Contributor Onboarding Guide](contributor-onboarding-guide.md)
+* [Contributor Onboarding Guide]()
 * [Contributor Tools Guide](https://github.com/ryancreatescopy/community/tree/203253ec20549aa3667729d5b12a0ee7c5834bde/contributing/contributor-tools-guide.md) 
 * [Reviewer Guide](reviewer-guide.md)
 
@@ -322,7 +322,7 @@ Review the [contributor resources](https://github.com/ryancreatescopy/community/
 
 #### Contributor Onboarding Guide
 
-* The [Contributor Onboarding Guide](contributor-onboarding-guide.md) introduces the process for contributing to MakerDAO’s Community Development resources.
+* The [Contributor Onboarding Guide]() introduces the process for contributing to MakerDAO’s Community Development resources.
 
 #### Document-Specific Maintenance Guides
 

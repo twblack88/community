@@ -1,2 +1,0 @@
-# Earn as a Contributor
-

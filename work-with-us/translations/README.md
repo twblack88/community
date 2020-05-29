@@ -1,36 +1,61 @@
+---
+description: >-
+  Join the translations team to help bring Maker to more languages and extend
+  the community even further. We want our content to be as global as Dai.
+---
+
 # Translations
 
-Welcome to the MakerDAO Translations Initiative, a place where community members can help expand the reach of MakerDAO educational resources by translating them into various languages.
+{% hint style="success" %}
+**Translator applications are currently open!**
+{% endhint %}
 
-## Project Snapshot
+## Requirements
 
-* Be part of a team
-* Earn bounties in Dai
-* Make MakerDAO & Dai more accessible
+To translate Maker content you’ll need a working knowledge of
 
-## What are we trying to accomplish?
+* [ ] **GitHub**  This is where we manage the site’s content 
+* [ ] **Markdown**  The site content here is written in markdown 
+* [ ] **Google docs**  We’ll review your drafts and early iterations in Google docs 
+* [ ] **Maker**  You’ll need to know about Maker. The community has created plenty of reading material to get you up to speed. [Learn about Maker](https://github.com/ryancreatescopy/community/tree/73adbf56ade73878c1f69ecb7426267192fd13cc/faqs/README.md)
 
-MakerDAO is an inherently global platform, which facilitates the creation of Dai. As MakerDAO and Dai spread across the world, our focus is on creating universally accessible resources. With inclusivity as a foundational part of our culture, our goal is to translate our current resources into as many languages as possible. Through the Translations Initiative, we are working to grant wider audiences access to materials about MakerDAO in their native languages.
+{% page-ref page="apply-to-join-the-team.md" %}
 
-## Project Description
+{% hint style="info" %}
+The application helps us understand what languages you bring to the table and how to contact you. Once we have content that needs translating in a language you’re able to translate, we’ll be in touch.
+{% endhint %}
 
-This is a community-led initiative that uses Dai bounties to incentivize users to translate MakerDAO resources to their native languages.
+## Languages needed
 
-## Is this for me?
+We’re particularly after the following languages. But if you can provide translations for another language please still do send in an application.
 
-* Fluent
-* Bilingual
-* Primary languages: Spanish, Korean, Polish, Japanese, Mandarin, Italian, and French
-* Basic knowledge of MakerDAO
-* Basic familiarity with markdown
+* Spanish 🇪🇸
+* Korean 🇰🇷
+* Polish 🇵🇱
+* Japanese 🇯🇵
+* Mandarin 🇨🇳
+* Italian 🇮🇹
+* French 🇫🇷
 
-## How do I get involved?
+## Payment
 
-Check out our quick-start guides for [Translators](translators-quick-start-guide.md) and [Editors](editor-quick-start-guide.md).
+You’ll earn Dai for your translation work but the amount will depend on what needs translating. You’ll be paid once your work has gone live or been pushed to GitHub repo.
 
-## Status
+Ask in the community chat for help submitting an invoice.
 
-[Applications](https://airtable.com/shr415iT3e8S8nuzS) are open for both translators and editors.
+[Community chat ↗](https://chat.makerdao.com/channel/community-development)
 
-As of June 2019, thirty five documents have been translated across seven different languages. We are currently working with Spanish, Korean, Polish, Japanese, Mandarin, Italian, and French. We’re open to incorporating other languages for interested applicants. Simply include the proposed language in the [application](https://airtable.com/shr415iT3e8S8nuzS).
+## Questions?
+
+We’ve got a dedicated chat channel for translations. If you have questions join the chat and say _bonjour_, _hola_, _여보세요_ or _hello_.
+
+[Translations chat ↗](https://chat.makerdao.com/channel/translation)
+
+## Suggested reading
+
+### The translation process
+
+See how we approve translation work and how we get your work on the site
+
+{% page-ref page="the-translation-process.md" %}
 
