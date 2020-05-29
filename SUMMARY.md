@@ -65,7 +65,7 @@
   * [Community projects](funding/community-projects/README.md)
     * [Community projects process](funding/community-projects/community-projects-process.md)
   * [Development grants](funding/grants/README.md)
-    * [Grantee Playbook](funding/grants/grantee-playbook.md)
+    * [Grantee playbook](funding/grants/grantee-playbook.md)
 * [Learn](learn/README.md)
   * [Vaults](learn/vaults.md)
   * [Dai](learn/dai.md)

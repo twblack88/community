@@ -75,7 +75,7 @@ A mobile phone can send DAI to another in 5 seconds with a simple QR code scan
 ****APAC region monitoring and alerting for CDPs & Wechat
 
 [**Ching! Store ↗**](https://ching.store/)  
-****Create Dai transaction pop-up markets with a white-label POS system.
+****Create Dai transaction pop-up markets with a white-label POS system
 
 ## Community project ideas
 
