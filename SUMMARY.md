@@ -63,6 +63,7 @@
     * [Transcripts](work-with-us/governance-and-risk-meetings/transcripts.md)
     * [Frequent Discussion Topics](work-with-us/governance-and-risk-meetings/frequent-discussion-topics.md)
 * [Funding](funding/README.md)
+  * [Meetup funding](funding/meetup-funding.md)
   * [Community projects](funding/community-projects/README.md)
     * [Community projects process](funding/community-projects/community-projects-process.md)
   * [Development Grants Program](funding/grants/README.md)
