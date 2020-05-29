@@ -17,6 +17,10 @@ The meetings are **every Thursday** at 4pm UTC \(9am PST\). We’d love to have 
 * [Join the call with voice/video ↗](https://zoom.us/j/697074715)
 * [Dial into the call ↗](https://zoom.us/u/acRbIMDvK)
 
+{% hint style="info" %}
+Public meetings are now password protected. Reach out to an admin in the general chat to request the password. [General chat ↗](https://chat.makerdao.com/channel/general)
+{% endhint %}
+
 ## What happens
 
 In the calls we: 
@@ -47,7 +51,7 @@ If you have any questions, feel free to reach out to us on Community chat.
 
 Take notes at a governance meeting and we’ll pay you. Notes are an important way to document discussions and decisions.
 
-[Take notes](take-notes.md)
+[Take notes](take-notes/)
 {% endhint %}
 
 ## Past meetings
