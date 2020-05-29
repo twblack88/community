@@ -26,7 +26,7 @@ Recommended to be done by one person.
 
 Create a new doc in HackMD using the template and send it to the writers.
 
-{% page-ref page="gnr-summary-template.md" %}
+{% page-ref page="governance-call-notes-template.md" %}
 
 ## 2. Writers take notes
 
@@ -90,5 +90,5 @@ Get prepared by looking at some of the topics that we discuss regularly.
 
 This is the template for taking notes at a governance meeting. Follow this to ensure consistency.
 
-{% page-ref page="gnr-summary-template.md" %}
+{% page-ref page="governance-call-notes-template.md" %}
 

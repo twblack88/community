@@ -38,5 +38,5 @@ See the process we use for taking accurate and thorough notes at our governance 
 
 This is the template for taking notes at a governance meeting. Follow this to ensure consistency.
 
-{% page-ref page="gnr-summary-template.md" %}
+{% page-ref page="governance-call-notes-template.md" %}
 

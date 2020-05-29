@@ -25,7 +25,7 @@
     * [Take notes](work-with-us/governance-and-risk-meetings/take-notes/README.md)
       * [Formatting guide](work-with-us/governance-and-risk-meetings/take-notes/formatting-guide.md)
       * [Note-taking process](work-with-us/governance-and-risk-meetings/take-notes/note-taking-process.md)
-      * [Governance call notes template](work-with-us/governance-and-risk-meetings/take-notes/gnr-summary-template.md)
+      * [Governance call notes template](work-with-us/governance-and-risk-meetings/take-notes/governance-call-notes-template.md)
     * [Summaries](work-with-us/governance-and-risk-meetings/summaries/README.md)
       * [Episode 94: May 21, 2020](work-with-us/governance-and-risk-meetings/summaries/episode-94-may-21-2020.md)
       * [Episode 93: May 14, 2020](work-with-us/governance-and-risk-meetings/summaries/episode-93-may-14-2020.md)
