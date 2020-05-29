@@ -70,5 +70,3 @@ See what happens once your proposal has been approved.
 
 {% page-ref page="community-projects-process.md" %}
 
-
-

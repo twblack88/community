@@ -4,6 +4,8 @@ description: How you play a part is up to you! And there’s Dai up for grabs.
 
 # Work with us
 
+## Ways to work with us
+
 {% page-ref page="bounties/" %}
 
 {% page-ref page="content/" %}
