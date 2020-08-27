@@ -4,7 +4,7 @@ description: >-
   below show you how you can get involved.
 ---
 
-# Community Development at Maker
+# Community Development at Maker is awesome
 
 ## Work with us
 
